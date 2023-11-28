@@ -26,4 +26,8 @@ Inicio
 
    salarioBonus <- calculoComissao(salario, vendas)
 
+   escreval
+   escreval("SALÁRIO COM COMISSAO: ")
+   escreval(salarioBonus:4:2)
+
 Fimalgoritmo
